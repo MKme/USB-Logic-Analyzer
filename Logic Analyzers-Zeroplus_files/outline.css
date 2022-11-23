@@ -1,0 +1,235 @@
+@charset "utf-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.Menuleft {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 15px;
+ color: #666666;
+ vertical-align: middle;
+}
+
+.Menuleft a {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 15px;
+ color: #000000;
+ vertical-align: middle;
+}
+.Menuleft a:hover {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 15px;
+ color: #3ddb3c;
+ font-weight: bold;
+ vertical-align: middle;
+}
+.Menuleft:hover {
+ font-weight: bold;
+ background-color: #000000;
+}.smalltitle_orange {
+	color: #FF7800;
+	font-size: 17px;
+	font-weight: bold;
+}
+.smalltitle_blue {
+	color: #00AEFF;
+	font-size: 17px;
+	font-weight: bold;
+}.smalltitle_green {
+	color: #15D92D;
+	font-size: 17px;
+	font-weight: bold;
+}
+.smalltitle_purple {
+	color: #A254F8;
+	font-size: 17px;
+	font-weight: bold;
+}
+.smalltitle_purple_nobold {
+	color: #A254F8;
+	font-size: 15px;
+}
+.top_down_optional_bottons {	font-size: 12px;
+	color: #333C93;
+	text-decoration: none;
+}
+.top_down_optional_bottons {	font-size: 12px;
+	color: #333C93;
+	text-decoration: none;
+}
+
+.content_small_gray {
+	color: #7b7a7a;
+	font-size: 13px;
+	line-height: 22px;
+}
+.zeroplus_main_bigtitle {
+	color: #FFFFFF;
+	font-size: 29px;
+	font-weight: bold;
+}
+.zeroplus_main_bigtitle_chinese {
+	color: #FFFFFF;
+	font-size: 19px;
+	font-weight: bold;
+}
+.title_divisions {
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.smalltitle_blue_nobold {font-size: 17px; color: #00AEFF;}
+.videogame_small_title {
+	font-size: 13px;
+	color: #FFFF00;
+}
+.content_small_white {font-size: 12px; color: #FFFFFF; }
+.typo_deepblue_13pt {
+	font-size: 13px;
+	color: #002786;
+}
+.typo_bold_orange_13pt {
+	color: #F37A00;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+}
+.menuleft_videogame_title_yellow {
+	color: #FFFF00;
+	font-size: 15px;
+}
+.menuleft_videogame_title_white {
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.typo_bold_black_13pt {
+	font-size: 13px;
+	font-weight: bold;
+}
+.amusement_news_contnet {
+	font-size: 12px;
+	color: #000000;
+}
+.amusement_news_more {
+	color: #15D92D;
+	font-size: 12px;
+}
+.amusement_news_date {
+	color: #3333FF
+}
+.smalltitle_15pt_white {
+	color: #FFFFFF;
+	font-size: 15px;
+}
+.typo_bold_black_23pt {
+	font-size: 23px;
+	font-weight: bold;
+}
+.typo_bold_black_17pt {	font-size: 17px;
+	font-weight: bold;
+}
+.typo_black_15pt {
+	font-size: 15px;
+	line-height: 25px;
+}
+.table_style_03td03th
+ {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: dashed;
+	border-bottom-style: solid;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	font-size: 13px;
+	line-height: 25px;
+}
+.typo_black_13pt_25hi {
+	font-size: 13px;
+	line-height: 25px;
+	list-style-position: outside;
+	list-style-type: disc;
+}
+.typo_black_13pt_22hi_liststyle {
+	font-size: 13px;
+	line-height: 22px;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
+.typo_blue_15pt {color: #3333FF; font-size: 15px; }
+.typo_white_13pt_19hi {color: #FFFFFF; line-height: 19px; font-size: 13px; }
+.typo_deepblue_17pt_25hi {
+	color: #002786;
+	font-size: 17px;
+	line-height: 25px;
+}
+.typo_red_bold_19pt {color: #FF0000; font-weight: bold; font-size: 19px; }
+.cubeshooter_2point {
+	color: #122B88;
+	font-weight: bold;
+	font-size: 15px;
+}
+.cubeshooter_4point {
+	color: #5AC5F1;
+	font-weight: bold;
+	font-size: 15px;
+}
+.cubeshooter_8point {
+	color: #E5007F;
+	font-weight: bold;
+	font-size: 15px;
+}
+.cubeshooter_16point {
+	color: #D90A24;
+	font-weight: bold;
+	font-size: 15px;
+}
+.movie_gray {color: #666666}
+.movie_red {color: #CC0000}
+.typo_black_15pt_28hi {	font-size: 15px;
+	line-height: 28px;
+}
+.typo_white_17pt_33hi {
+	font-size: 17px;
+	line-height: 33px;
+	color: #FFFFFF;
+}
+.typo_black_15pt_20hi {
+	font-size: 15px;
+	color: #000000;
+	line-height: 20px;
+}
+.typo_yellow_17pt_20hi {
+	color: #FFFF00;
+	font-weight: bold;
+	font-size: 17px;
+	line-height: 20px;
+}
+.typo_white_15pt_20hi {
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 20px;
+}
+.typo_orange_17pt_20hi {
+	color: #F9DD80;
+	font-size: 17px;
+	line-height: 20px;
+	font-weight: bold;
+}
+.typo_lightgreen_15pt {
+	color: #66FF99;
+	font-size: 15px;
+}
+.smalltitle_blue_13pt {
+	color: #0066FF;
+	font-size: 13px;
+	text-decoration: underline;
+}
+.content_small_gray_16hi {
+	color: #7b7a7a;
+	font-size: 13px;
+	line-height: 16px;
+}

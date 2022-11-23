@@ -1,0 +1,926 @@
+@charset "utf-8";
+.ag9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #666666;
+}
+.c06 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 10px;
+}
+.c07_4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #16ABFF;
+	padding-left: 15px;
+}
+
+
+.ag10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.ag11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+.ag12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+.table23 li {
+	line-height: 20px;
+}
+
+.agb11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000099;
+}
+.ab13 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000099;
+	background-color: #ECF3F7;
+	text-align:center;
+
+}
+
+.agr11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+}
+
+.bdotg5 {
+	border: 1.5px dotted #BEBEBE;
+	cellpadding: 0;
+	cellspacing: 0;
+}
+.lh1 {
+	width: 100%;
+	height: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.p {
+}
+.newsdate {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #EF2220;
+	font-size: 11px;
+}
+.arrowtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+} 
+ 
+.newstitle {
+	color: #000099;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+ }
+.border {
+	border-left:solid 1px #999999;
+	border-right:solid 1px #999999;
+	border-bottom:solid 1px #999999;
+	border-top: solid 1px #999999;
+	margin: 0px;
+}
+
+.padding {
+    padding: 6px 0;
+}
+
+.line01 {
+	border-right:solid 1px #999999;
+	border-left:none
+}
+
+.line02 {
+    border-top: solid 1px #000099;
+}
+.style1 {font-size: 12px}
+.style2 {
+	font-size: 11px;
+	color: #666666;
+}
+.style3 {color: #666666}
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	line-height: 18px;
+}
+.style5 {
+	color: #313C92;
+	font-weight: bold;
+}
+.style6 {font-size: 12px; color: #666666; font-family: Arial, Helvetica, sans-serif;}
+.style7 {color: #8B1027; font-weight: bold; font-size: 14px; }
+.style8 {color: #666666}
+.style9 {font-size: 12px; color: #666666; }
+.style10 {color: #FF0000}
+.style11 {
+	color: #8B1027;
+	font-size: 14px;
+}
+.style12 {font-family: Arial, Helvetica, sans-serif}
+.style13 {
+	color: #313C92;
+	font-weight: bold;
+}
+.style14 {font-weight: bold}
+.style15 {
+	font-size: 12px;
+	color: #313C92;
+	font-weight: bold;
+}
+.style16 {
+	color: #313C92;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+}
+.style17 {font-family: Arial, Helvetica, sans-serif; color: #666666; }
+.style18 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #313C92;
+}
+.style19 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	line-height: 18px;
+}
+.style20 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #333333; }
+.style21 {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style22 {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style23 {font-size: 16px}
+.style25 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #811788;
+	text-align: center;
+}
+.style26 {font-family: Arial, Helvetica, sans-serif; font-size: 12; color: #666666; }
+.style36 {font-size: 14px; color: #666666; font-family: Arial, Helvetica, sans-serif;}
+.style37 {color: #0095FF}
+.style38 {
+	color: #0095FF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 25px;
+}
+.c_txt01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+.c_title02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0095FF;
+}
+.c_title02 a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0066FF;
+	text-decoration: none;
+}
+.c_title02 a:hover {
+	color: #FF6600;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.c_title01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #0095FF;
+	font-weight: bold;
+}
+.icon02 {
+    font-size: 12px
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.icon02 a{
+	color: #0033FF;
+	text-decoration: none;
+}
+.ap {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #FF6600;
+	padding: 5px;
+}
+
+.icon02 a:hover{
+	color: #0099FF;
+	text-decoration: none;
+}
+.icon01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+}
+.icon01 a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000099;
+	text-decoration: none;
+}
+.icon01 a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3AB6FF;
+	text-decoration: none;
+}
+.word7 {font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; font-weight: bold; }
+.word8 {font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.word5 {font-family: Arial, Helvetica, sans-serif;}
+.word6 {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.word4 {
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.word9 {color: #3399FF;}
+.word10 {color: #333333;}
+.hut { border: 1px dashed #808080; background-color: #E6E6E6 ;width : 192px}
+.indexword01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #993399;
+}
+.indexword02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003399;
+}
+.indexword03 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.indexword03  a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+.indexword03  a:hover {
+	color: #CCCCCC;
+	font-weight: normal;
+	text-decoration: none;
+}
+.indexword03  a:visited {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+.indexword04 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.indexword04 a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.indexword04  a:hover {
+	color: #FFFFCC;
+	font-weight: normal;
+	text-decoration: none;
+}
+.indexword04  a:visited {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+.indexword05 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #3399FF;
+}
+.indexword06 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.table17 { /*產品介紹總表*/
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+	height: 70px;
+	background-color: #D9EBFF;
+	width: 690px;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+
+.table18 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-left: 10px;
+	line-height: 19px;
+	vertical-align: text-top;
+	color: #666666;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #3C91E6;
+}
+
+.table18 td {
+	vertical-align: top;
+	padding-top: 2px;
+}
+.c18 { /*產品介紹,protocol內容*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+.c18 a {
+	font-size: 12px;
+	color: #666666;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.c18 a:hover {
+	font-size: 12px;
+	color: #0099FF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+fieldset {
+	background-image: url(image/fieldset01_bg.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	font-size: 12px;
+}
+.table08 { /*zeroplus的內文*/
+	font-size: 12px;
+	color: #333333;
+	padding: 10px;
+	line-height: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.table08 .table14 .table15 td {
+	border: 1px solid #F0F0F0;
+	vertical-align: top;
+}
+.c24 { /*表單*/
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	vertical-align: bottom;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.c24 a {
+	font-size: 24px;
+	color: #3C91E6;
+	text-decoration: underline;
+}
+.c24 a:hover {
+	font-size: 24px;
+	color: #66CCFF;
+}
+.c26 { /*公司簡介/服務據點*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #3C91E6;
+	background-color: #F0F0F0;
+	text-align: center;
+	line-height: 30px;
+	font-weight: bold;
+}
+.table12 {
+	font-size: 15px;
+	color: #3399FF;
+	background-color: #FFFFFF;
+	line-height: 40px;
+	width: 94%;
+	font-weight: bold;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+	border-top-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	margin-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.table22{
+	font-size: 13px;
+	color: #666666;
+	border: 1px dashed #CCCCCC;
+	background-color: #F7F4F0;
+	line-height: 38px;
+	width: 94%;
+	padding-left: 10px;
+	padding-top: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.table10 { /*會員登入*/
+	border: 1px solid #CCCCCC;
+	background-color: #F6F6F6;
+	font-size: 13px;
+	color: #3C91E6;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.table32 { /*單各產品總表*/
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+	background-color: #D9EBFF;
+	width: 690px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 12px;
+	letter-spacing: 1px;
+	padding-bottom: 8px;
+	padding-top: 8px;
+}
+.table32 a {
+	font-size: 12px;
+	color: #0066FF;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.table32 a:hover {
+	font-size: 12px;
+	color: #FF6600;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+.table33 { /*protocol流程*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000066;
+	line-height: 25px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCCCCC;
+	background-color: #FFFFFF;
+	font-weight: bold;
+}
+
+.table33 td {
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+}
+.c28 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+}
+.c27 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3399FF;
+	font-weight: bold;
+}
+.index_bus_contant {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.protocol_more {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.protocol_more a {
+	font-size: 14px;
+	color: #FF0000;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.protocol_more a:hover {
+	font-size: 14px;
+	color: #FF0000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.index_vote {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0066FF;
+	font-weight: bold;
+	padding-top: 0.5px;
+}
+.index_endvote {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	font-weight: bold;
+	padding-top: 0.5px;
+}
+.survey {
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+.c08 { /*右邊目錄路徑說明文*/
+	font-size: 13px;
+	color: #006699;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.c08 a{ /*右邊目錄路徑說明文*/
+	font-size: 13px;
+	color: #666666;
+	text-decoration: none;
+}
+.c08 a:hover { /*右邊目錄路徑說明文*/
+	font-size: 13px;
+	color: #3399FF;
+}
+.c17{ /*電子報標題*/
+	font-size: 14px;
+	color: #FFFFFF;
+	line-height: 29px;
+	vertical-align: top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.table16{ /*電子報表單*/
+	font-size: 13px;
+	color: #333333;
+	border: 1px solid #CCCCCC;
+	background-color: #F7F7F7;
+	line-height: 28px;
+}
+.c01 {
+	font-size: 13px;
+	color: #000099;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 30px;
+}
+.c01 a{
+	font-size: 13px;
+	color: #0033FF;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.c01 a:hover{
+	color: #0000FF;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+.SDK {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000099;
+	text-align:center;
+	background-color: #D7EFFF;
+}
+.log {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	line-height: 22px;
+}
+.log a {
+	font-size: 12px;
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.log a:hover {
+	font-size: 12px;
+	color: #0099FF;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+.c14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0066FF;
+	text-align: center;
+}
+.table23 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #CCCCCC;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #CCCCCC;
+    background-color: #FFFFFF;
+}
+.table23 td {
+    vertical-align: top;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #CCCCCC;
+ }
+
+.c23 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-align: center;
+}
+.c23 a {
+    font-size: 14px;
+    color: #666666;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c23 a:hover {
+    color: #0066FF;
+}
+.h1-title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: 10px;
+	text-align: center;
+}
+.h2-news {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #ef2220;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.h2-product {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #ff7f00;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.h2-buy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #F1B820;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.h2-customer{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #33A02C;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.h2-technical{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #811788;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.product01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: #0095ff;
+}
+.c10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #0066FF;
+}
+.table09 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+	background-color: #E9FEFC;
+	line-height: 45px;
+}
+.table09 a {
+	font-size: 13px;
+	color: #0066CC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.table09 a:hover {
+	font-size: 13px;
+	color: #3399CC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.c20 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: #006699;
+	text-align: center;
+}
+.news-d-search {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.nparters01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #FFFFFF;
+	background-color: #33CCCC;
+	font-weight: bold;
+	height: 40px;
+}
+.nparters02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+	background-color: #E9FEFC;
+	line-height: 20px;
+	text-align: justify;
+}
+.nparters03 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+	background-color: #E9FEFC;
+	line-height: 20px;
+	text-align: justify;
+}
+.ap {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	line-height: 16px;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-left: 5px;
+	background-color: #E9501D;
+	padding-bottom: 3px;
+}
+fieldset {
+	background-image: url(image/fieldset01_bg.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	font-size: 13px;
+}
+.log {
+	font-size: 12px;
+	color: #666666;
+	line-height: 22px;
+}
+.log a {
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+.log a:hover {
+	font-size: 12px;
+	color: #0099FF;
+	text-decoration: underline;
+}
+.c27 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF6600;
+	text-decoration: underline;
+}
+.space {
+	padding-left: 10px;
+}
+.table34 { /*各註冊申請會員登入的說明文*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 25px;
+	color: #333333;
+	padding: 10px;
+}
+.sitmaptable {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 50px;
+	background-color: #EDFFE1;
+	color: #333333;
+}
+.sitemap-title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #333333;
+	background-color: #FFCC33;
+}
+*{
+	margin:0;
+	padding: 0;
+}
+ul{
+	list-style-type:none;
+	clip: rect(auto,auto,auto,auto);
+	margin-left: 5px;
+}
+
+li {
+	background-image:url(image/icon01.gif);
+	background-repeat:no-repeat;
+	background-position: 0px;
+	padding-left:15px;
+}
+li a {
+	color: #0033CC;
+	text-decoration: none;
+}
+li a:hover {
+	color: #0099CC;
+}
+.sitmap-intext {
+	margin-left: 10px;
+	line-height: 40px;
+}
+.sitmap-intext a {
+	color: #0066FF;
+	text-decoration: none;
+}
+.sitmap-intext a:hover  {
+     color: #0099CC;
+
+}
+.epapertable {
+	background-color: #F7F7F7;
+	border: thin solid #CCCCCC;
+}
+.epapertable-title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.c15 {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 30px;
+}

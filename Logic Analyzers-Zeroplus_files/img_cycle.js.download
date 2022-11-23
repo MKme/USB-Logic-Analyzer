@@ -1,0 +1,32 @@
+jQuery(document).ready(function($)
+{
+	if ($('#slideshow img').length)
+	{
+		$('#slideshow').cycle({
+			fx:			'fade',
+			speed:       6000,
+			timeout:     2000,
+			pager:      '#nav',
+			pagerEvent: 'mouseover',
+			pause: true,
+			pauseOnPagerHover: true,
+			slideExpr: 'img',
+			pagerAnchorBuilder: function(idx, slide) {
+				return '<li alt="' + $('#slideshow img:eq(' + idx + ')').attr('alt') + '" title="' + $('#slideshow img:eq(' + idx + ')').attr('alt') + '" rel="' + $('#slideshow img:eq(' + idx + ')').attr('rel') + '">' + (idx + 1) + '</li>';
+			},
+			after: function() {
+				$('#nav_content').hide().html($(this).attr('alt'));
+				$('#nav_content').fadeTo('slow', 0.5);
+			}
+		});
+
+		$('#nav_content').hover(function () {
+			$(this).fadeTo('slow', 1);
+		});
+
+		$('#slideshow img').click(function () {
+			var recipe =  window.open($(this).attr('rel'));
+			return false;
+		}).css('cursor', 'pointer');
+	}
+});
